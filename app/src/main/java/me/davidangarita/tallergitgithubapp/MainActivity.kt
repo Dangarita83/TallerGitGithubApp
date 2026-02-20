@@ -63,7 +63,7 @@ fun Presentation(){
 
 
         Text(
-            text = "Tu nombre",
+            text = "David Alejandro Angarita Avendaño",
             color = Color.Gray,
             fontSize = 30.sp,
             fontWeight = FontWeight.Bold,
@@ -76,7 +76,7 @@ fun Presentation(){
         )
 
         Text(
-            text = "Tu rol",
+            text = "Estudiante Ing. Sistemas",
             fontSize = 20.sp,
             color = Color.Gray,
             textAlign = TextAlign.Center,
@@ -100,7 +100,7 @@ fun Presentation(){
         )
 
         Text(
-            text = "-- años",
+            text = "20 años",
             color = Color.Gray,
             fontSize = 18.sp,
             modifier = Modifier
@@ -124,7 +124,7 @@ fun Presentation(){
         )
 
         Text(
-            text = "[email protected]",
+            text = "dangarita83@unab.edu.co",
             color = Color.Gray,
             fontSize = 18.sp,
 
@@ -149,7 +149,7 @@ fun Presentation(){
         )
 
         Text(
-            text = "Tu ciudad",
+            text = "Bucaramanga",
             color = Color.Gray,
             fontSize = 18.sp,
 
