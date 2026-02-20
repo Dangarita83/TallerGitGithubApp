@@ -175,7 +175,7 @@ fun Presentation(){
         )
 
         Text(
-            text = "Aca ira tu descripcion de intereses academicos y profesionales...",
+            text = "Aun no descubro muy bien cual es la rama de la carrera que me apasiona, de momento me esta gustando mucho todo lo que tiene que ver con bases de datos, analisis de datos y en general la ciencia de datos.",
             color = Color.Gray,
             textAlign = TextAlign.Center,
             fontSize = 15.sp,
